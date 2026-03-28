@@ -10,7 +10,7 @@
 
 **Detect deepfakes in images and videos using a fine-tuned Vision Transformer (ViT) model — ~92% accuracy.**
 
-[Demo](#-demo) · [Features](#-features) · [Quick Start](#-quick-start) · [API Docs](#-api-reference) · [How It Works](#-how-it-works)
+[Demo](https://youtu.be/mFryagMguz0?si=NxyPf0dFCObTybzO) · [Features](#-features) · [Quick Start](#-quick-start) · [API Docs](#-api-reference) · [How It Works](#-how-it-works)
 
 </div>
 
