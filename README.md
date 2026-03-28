@@ -240,5 +240,5 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for det
 ---
 
 <div align="center">
-  <sub>Built with ❤️ · Powered by <a href="https://huggingface.co/prithivMLmods/Deep-Fake-Detector-v2-Model">prithivMLmods/Deep-Fake-Detector-v2-Model</a></sub>
+  <sub>Built with ❤️ by Yash Yadav · Powered by <a href="https://huggingface.co/prithivMLmods/Deep-Fake-Detector-v2-Model">prithivMLmods/Deep-Fake-Detector-v2-Model</a></sub>
 </div>
